@@ -13,7 +13,7 @@
   - [Basic Definitions](https://www.loom.com/share/38130b95c9644a14a4540c1d818e5da3)
   - [Extended Graphs](https://www.loom.com/share/7d3dcfdff501422ba29b2915ecfa4ffe)
   - [Density, Sparsity and Subnetworks](https://www.loom.com/share/feac228e694b4a31b5272012072e778f)
-  - [Degree and Network Representation](https://www.loom.com/share/ffa649c95da3446793a365a7e1ec525c)
-  - [Further Reading](https://www.loom.com/share/239b000c9efd40ba86976a64d7b8b493)
+  - Degree and Network Representation - [Video](https://www.loom.com/share/ffa649c95da3446793a365a7e1ec525c)
+  - Further Reading - [Video] (https://www.loom.com/share/239b000c9efd40ba86976a64d7b8b493)
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis/blob/main/week_02/Lesson_2_Exercise.ipynb) [Exercise](https://github.com/ivanovitchm/network_analysis/blob/main/week_02/Lesson_2_Exercise.ipynb)
  
