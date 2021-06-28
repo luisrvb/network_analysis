@@ -9,7 +9,7 @@
   - Google Colab Introduction [[Video]](https://www.loom.com/share/8a4f0d34b3cb4d9ea04b6dcf0b3d1aca)
   - Google Colab Cont. [[Video]](https://www.loom.com/share/d96cb0af7d9c4416bfe8145c93248a11)
 - Week 02 [[Slide]](https://github.com/ivanovitchm/network_analysis/blob/main/week_02/Week_02.pdf)
-  - Outline [Video](https://www.loom.com/share/d30a090f147140339cc958979e38c76b)
+  - Outline [[Video]](https://www.loom.com/share/d30a090f147140339cc958979e38c76b)
   - Basic Definitions [[Video]](https://www.loom.com/share/38130b95c9644a14a4540c1d818e5da3)
   - Extended Graphs [[Video]](https://www.loom.com/share/7d3dcfdff501422ba29b2915ecfa4ffe)
   - Density, Sparsity and Subnetworks [[Video]](https://www.loom.com/share/feac228e694b4a31b5272012072e778f)
