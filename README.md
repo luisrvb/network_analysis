@@ -18,5 +18,5 @@
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis/blob/main/week_02/Week_02_%5BNetworkX%5D_Network_Elements.ipynb) [Network Elements - NetworkX](https://github.com/ivanovitchm/network_analysis/blob/main/week_02/Week_02_%5BNetworkX%5D_Network_Elements.ipynb)
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis/blob/main/week_02/Week_02_%5BGraph_Tool%5D_Network_Elements.ipynb) [Network Elements - Graph-Tool](https://github.com/ivanovitchm/network_analysis/blob/main/week_02/Week_02_%5BGraph_Tool%5D_Network_Elements.ipynb)
 - Week 03 [Exercise]  
-  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis/blob/main/week_02/week_3_Exercise.ipynb) [Exercise](https://github.com/ivanovitchm/network_analysis/blob/main/week_03/week_3_Exercise.ipynb)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis/blob/main/week_03/week_3_Exercise.ipynb) [Exercise](https://github.com/ivanovitchm/network_analysis/blob/main/week_03/week_3_Exercise.ipynb)
  
