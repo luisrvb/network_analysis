@@ -17,5 +17,6 @@
   - Further Reading [[Video]](https://www.loom.com/share/239b000c9efd40ba86976a64d7b8b493)
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis/blob/main/week_02/Week_02_%5BNetworkX%5D_Network_Elements.ipynb) [Network Elements - NetworkX](https://github.com/ivanovitchm/network_analysis/blob/main/week_02/Week_02_%5BNetworkX%5D_Network_Elements.ipynb)
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis/blob/main/week_02/Week_02_%5BGraph_Tool%5D_Network_Elements.ipynb) [Network Elements - Graph-Tool](https://github.com/ivanovitchm/network_analysis/blob/main/week_02/Week_02_%5BGraph_Tool%5D_Network_Elements.ipynb)
-  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis/blob/main/week_02/Lesson_2_Exercise.ipynb) [Exercise](https://github.com/ivanovitchm/network_analysis/blob/main/week_02/Lesson_2_Exercise.ipynb)
+- Week 03 [Exercise]  
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/network_analysis/blob/main/week_02/week_3_Exercise.ipynb) [Exercise](https://github.com/ivanovitchm/network_analysis/blob/main/week_03/week_3_Exercise.ipynb)
  
